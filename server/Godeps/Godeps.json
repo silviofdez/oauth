@@ -1,0 +1,153 @@
+{
+	"ImportPath": "github.com/jpgriffo/oauth/server",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/satori/go.uuid",
+			"Comment": "v1.1.0-1-g0aa62d5",
+			"Rev": "0aa62d5ddceb50dbcb909d790b5345affd3669b6"
+		},
+		{
+			"ImportPath": "github.com/tidwall/btree",
+			"Rev": "bde515e1697379bec1427903e54888babf32513a"
+		},
+		{
+			"ImportPath": "github.com/tidwall/buntdb",
+			"Rev": "de91fbc38cb1a1fa62fa31d397a8253c8d773c59"
+		},
+		{
+			"ImportPath": "github.com/tidwall/gjson",
+			"Rev": "8be3ed76053f26fd17b81e19d4e15b560c253611"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d1",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d10",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d11",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d12",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d13",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d14",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d15",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d16",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d17",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d18",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d19",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d2",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d20",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d3",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d4",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d5",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d6",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d7",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d8",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "github.com/tidwall/rtree/dims/d9",
+			"Rev": "1737a7bdeb7e5f8303905c5b385f1eeb0f7272ab"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3/errors",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3/generates",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3/manage",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3/models",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3/server",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/oauth2.v3/store",
+			"Comment": "v3.4.7",
+			"Rev": "34bd025df08ad6b78f0434bab17141432dd3927e"
+		},
+		{
+			"ImportPath": "gopkg.in/session.v1",
+			"Comment": "v1.0.1",
+			"Rev": "2d17c7ca2d2b44a26f3d524a31faddb63d68f37f"
+		}
+	]
+}
